@@ -18,3 +18,4 @@ This website is where I keep track of my observations and questions from the rea
 * [Class 07 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class7readings.md)
 * [Class 08 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class8Reading.md)
 * [Class 10 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class10Reading.md)
+* [Class 11 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class11reading.md)
