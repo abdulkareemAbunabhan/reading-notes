@@ -22,3 +22,4 @@ This website is where I keep track of my observations and questions from the rea
 * [Class 11 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class11reading.md)
 * [Class 12 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class12readings.md)
 * [Class 13 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class13readings.md)
+* [Class 14 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class14readings.md)
