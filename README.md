@@ -26,3 +26,5 @@ This website is where I keep track of my observations and questions from the rea
 * [Class 15 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class15reading.md)
 * [Class 16 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class16reading.md)
 * [Class 17 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class17reading.md)
+* [Class 26 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class26reading.md)
+* [Class 27 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class27reading.md)
