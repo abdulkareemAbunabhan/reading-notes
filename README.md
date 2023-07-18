@@ -32,4 +32,5 @@ This website is where I keep track of my observations and questions from the rea
 * [Class 32 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class32Reading.md)
 * [Class 33 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class33Reading.md)
 * [Class 34 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class34Reading.md)
+* [Class 37 reading](https://github.com/abdulkareemAbunabhan/reading-notes/blob/main/class37Reading.md)
 
