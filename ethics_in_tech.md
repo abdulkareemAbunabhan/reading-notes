@@ -1,0 +1,13 @@
+Reflection on "The code I'm still ashamed of":
+
+The article "The code I'm still ashamed of" highlights the ethical dilemma faced by software engineers when working on projects that have the potential to cause harm or negative consequences. The author shares a personal experience of being part of a team that developed code for a healthcare system that lacked proper testing and had significant defects, leading to patient safety concerns. The article emphasizes the responsibility of engineers to prioritize ethical considerations over deadlines and pressures from management.
+
+The article raises important questions about the ethical responsibilities of developers and the potential consequences of neglecting ethical considerations in software development. It serves as a reminder that the choices made by developers can have real-world impacts, and they must prioritize the safety and well-being of users over other concerns. This article highlights the importance of adhering to a code of ethics in technology and the need for transparency and accountability in software development.
+
+Reflection on "Project Dragonfly, Google's censored search engine":
+
+The article "Project Dragonfly, Google's censored search engine" discusses the ethical concerns surrounding Google's attempt to develop a censored search engine for the Chinese market. The project was met with criticism from employees and human rights organizations who argued that it would enable the Chinese government to censor and control information access to its citizens. The article highlights the tension between business interests and ethical considerations when operating in countries with repressive regimes.
+
+This article exemplifies the ethical dilemmas faced by technology companies when expanding into international markets with different ethical standards and regulatory environments. It raises questions about the responsibility of tech companies to uphold human rights and freedom of information, even in lucrative markets. The situation surrounding Project Dragonfly underscores the importance of having a clear and consistent set of ethical principles that guide decision-making in technology companies.
+
+I agree with both articles as they shed light on the crucial role of ethics in technology. Software engineers and technology companies have a responsibility to prioritize ethical considerations in their work to ensure the safety, privacy, and well-being of users. It is essential to be transparent about potential risks and to engage in ethical discussions with stakeholders to address any concerns. These articles serve as valuable reminders that ethical principles should be at the core of all technology development and deployment.
